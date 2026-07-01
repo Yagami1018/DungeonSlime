@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/home/xnak3/Development/DungeonSlime/DungeonSlime/Content/Images/logo.png</File>
+    <File>/home/xnak3/MonoGame slns/DungeonSlime/Content/Images/logo.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
